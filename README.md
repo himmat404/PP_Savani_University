@@ -6,6 +6,8 @@ Welcome to my GitHub repository where I maintain my semester-wise projects and p
 
 - [Semester 1](./Semester1/README.md)
 - [Semester 2](./Semester2/README.md)
+- [Semester 3](./Semester3/README.md)
+- [Semester 4](./Semester4/README.md)
 
 ## How to Navigate
 
