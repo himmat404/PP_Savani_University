@@ -16,8 +16,9 @@ Welcome to the repository for my Semester 4 projects and practical assignments. 
 
 Explore the practical assignments for this semester:
 
-- [Practical 1](./PracticalAssignments/Practical1/README.md)
-- [Practical 2](./PracticalAssignments/Practical2/README.md)
+- [Computer Networks](./PracticalAssignments/Computer_Network/README.md)
+- [Introduction to Data Science](./PracticalAssignments/Data_Science/README.md)
+- [Introduction to JavaScript](./PracticalAssignments/JavaScript/README.md)
 
 Feel free to explore each project and practical assignment for more details. If you have any questions or feedback, don't hesitate to reach out.
 

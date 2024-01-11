@@ -1,0 +1,102 @@
+/*
+#e7eaf6
+#a2a8d3
+#38598b
+#113f67
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #d2d2d2;
+}
+.container {
+    margin: 50px auto;
+    padding: 10px;
+    width: 80vw;
+    border-radius: 1em;
+    background: #e9e9e9;
+}
+.container h2 {
+    margin: 10px 0;
+    color: #113f67;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container .section{
+    margin: 10px 30px;
+    padding: 10px 5px;
+    border-radius: 0.5em;
+    border-bottom: 0.15em solid rgb(168, 168, 168);
+    background-color: #d3d3d3;
+}
+.container .section .question{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 2px;
+    padding: 5px;
+    color: #473f79;
+}
+.container .section input[type="text"],
+.container .section input[type="number"]
+{   
+    margin: 5px 10px;
+    padding: 5px 10px;
+    width: 150px;
+    height: 30px;
+    font-size: 14px;
+    height: 40px;
+    border-radius: 0.3em;
+    border: 0;
+}
+.container .section input[type="button"]{
+    outline: 0;
+    border: 0;
+    margin: 2px 25px;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    height: 40px;
+    color: #fff;
+    background-color: #222;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.container .section .solution{
+    margin: 5px 10px;
+    padding: 8px 15px;
+    border-left: 5px solid #4eb073;
+    color: #2779a7;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #fff;
+    width: fit-content;
+    border-radius: 0 5px 5px 0;
+}
+.container .section .hidden{
+    display: none;
+}
+#solution7 {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+#solution8 {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    text-align: right;
+    padding-right: 50px;
+    color: #86868b;
+}
