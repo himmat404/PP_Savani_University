@@ -16,8 +16,8 @@ Welcome to the repository for my Semester 2 projects and practical assignments. 
 
 Explore the practical assignments for this semester:
 
-- [Practical 1](./PracticalAssignments/Practical1/README.md)
-- [Practical 2](./PracticalAssignments/Practical2/README.md)
+- [Introduction to Web Designing](./PracticalAssignments/Intro_to_Web_Designing/README.md)
+- [Object Oriented with Java](./PracticalAssignments/OOP_with_Java/README.md)
 
 Feel free to explore each project and practical assignment for more details. If you have any questions or feedback, don't hesitate to reach out.
 
